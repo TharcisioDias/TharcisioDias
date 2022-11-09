@@ -1,6 +1,5 @@
 
-### Ola! Eu sou o Tharcisio Dias 🖐️ 
-<br>
+## Ola! Eu sou o Tharcisio Dias 🖐️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisio-dias-aa8610237/)
 [![wkatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953742700)
@@ -8,7 +7,6 @@
 
 ![TharcisioDias GitHub stats](https://github-readme-stats.vercel.app/api?username=TharcisioDias&show_icons=true&theme=dracula)
 
-##
 
 ## Tecnologia que uso no meu dia!
 <div style="display: inline_block"><br>
